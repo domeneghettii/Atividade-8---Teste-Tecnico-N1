@@ -48,9 +48,26 @@
             margin-top: 15%;
         }
 
-        .maior {
-            
+        .SNEAKERS {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+            font-size: 16px;
         }
+
+        .containerfooter {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .imagemicons {
+            display: flex;
+        }
+
+        .imagemmaior {
+            margin-left: auto;
+        }
+
 
         .card-item {
             display: flex;
@@ -165,4 +182,5 @@
         .button-checkout {
             background-color: #4a90e2;
             color: #fff;
+            padding: 2%;
         }
